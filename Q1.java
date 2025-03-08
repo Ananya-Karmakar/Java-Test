@@ -223,7 +223,7 @@ class Q1 {
         helpDesk.addEmployee(emp2, 2);
 
         Ticket t1 = new Ticket(101, "Software issue", "Software", 4);
-        Ticket t2 = new Ticket(102, "network issue", "Network", 7);
+        Ticket t2 = new Ticket(102, "network issue", "Hardware", 7);
         Ticket t3 = new Ticket(103, "System crash", "Hardware", 10);
         Ticket t4 = new Ticket(104, "printer not working", "Hardware", 3);
         Ticket t5 = new Ticket(105, "blue screen error", "Software", 2);
